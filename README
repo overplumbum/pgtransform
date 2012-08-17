@@ -1,0 +1,3 @@
+*** PROTOTYPE, NOT WORKING YET ***
+Tool to obfuscate postgresql pg_dump archives.
+E.g. to generate development/testing DB from production data.
